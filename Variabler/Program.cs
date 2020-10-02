@@ -55,13 +55,10 @@ namespace Variabler
             string address;
             bool isHungry;
 
-            //TODO Opgave8: Prøv at printe de ovenstående variabler ud. Hvilke værdier får du ud, når de ikke har fået en værdi?
-            Console.WriteLine(numberOfEmployees);
+            //Hvis man prøver at bruge unassigned variabler får man fejl. Det kan du prøve ved at fjerne kommenteringen på linjen herunder.
+            //Console.WriteLine(numberOfEmployees);
 
-
-            //Implicitte variabler
-
-            //Avancerede Variabler
+            //TODO Opgave 8: Fix det således at den ovenstående linje virker. Enten ved at ændre på ærklæringen af variablen, eller ved at ændre værdien efter ærklæringen. 
 
         }
     }
