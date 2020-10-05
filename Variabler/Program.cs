@@ -58,7 +58,7 @@ namespace Variabler
             //Hvis man prøver at bruge unassigned variabler får man fejl. Det kan du prøve ved at fjerne kommenteringen på linjen herunder.
             //Console.WriteLine(numberOfEmployees);
 
-            //TODO Opgave 8: Fix det således at den ovenstående linje virker. Enten ved at ændre på ærklæringen af variablen, eller ved at ændre værdien efter ærklæringen. 
+            //TODO Opgave 8: Fix det således at den ovenstående linje virker. Enten ved at ændre på ærklæringen af variablen, eller ved at ændre værdien efter ærklæringen.
 
         }
     }
