@@ -9,5 +9,6 @@ En bog hvor du kan lære at programmere med C#.
  - [Kapitel 3: IF sætninger](./IF/IF.md)
  - [Kapitel 4: Scope](./Scope/Scope.md)
  - [Kapitel 4: Brugerinput](./Brugerinput/Brugerinput.md)
+ - [Kapitel 5: Arrays](./Brugerinput/Brugerinput.md)
  - [Kapitel 4: Funktioner](./Funktioner/Funktioner.md)
  - [Kapitel 5: Loops](./Loops/Loops.md)
