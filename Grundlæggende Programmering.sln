@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorer (Kap 2)", "Opera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IF Sætninger (Kap 3)", "IF Sætninger (Kap 3)\IF Sætninger (Kap 3).csproj", "{2BC05018-1371-46EC-8DA1-66392038C129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brugerinput", "Brugerinput\Brugerinput.csproj", "{DD9046B5-A83B-4409-B355-6EE87EF1B081}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brugerinput (Kap 4)", "Brugerinput\Brugerinput (Kap 4).csproj", "{DD9046B5-A83B-4409-B355-6EE87EF1B081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays (Kap 5)", "Arrays\Arrays (Kap 5).csproj", "{8E4E3E8E-CBAE-462E-97A2-A29B71144557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DD9046B5-A83B-4409-B355-6EE87EF1B081}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD9046B5-A83B-4409-B355-6EE87EF1B081}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD9046B5-A83B-4409-B355-6EE87EF1B081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4E3E8E-CBAE-462E-97A2-A29B71144557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4E3E8E-CBAE-462E-97A2-A29B71144557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4E3E8E-CBAE-462E-97A2-A29B71144557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4E3E8E-CBAE-462E-97A2-A29B71144557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
