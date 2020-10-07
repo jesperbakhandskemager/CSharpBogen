@@ -12,3 +12,4 @@ En bog hvor du kan lære at programmere med C#.
  - [Kapitel 7: Arrays](./Brugerinput/Brugerinput.md)
  - [Kapitel 8: Funktioner](./Funktioner/Funktioner.md)
  - [Kapitel 9: Loops](./Loops/Loops.md)
+ - [Kapitel 10: Simple Objekter](./Objekter/Objekter.md)
