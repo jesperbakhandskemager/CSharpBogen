@@ -1,1 +1,3 @@
-# Dette er en variabel gennemgang
+# Kapitel 1: Variabler
+
+Når man gerne vil 
