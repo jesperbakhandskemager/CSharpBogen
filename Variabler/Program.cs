@@ -30,7 +30,7 @@ namespace Variabler
             Console.Write(hilsen);
             Console.Write(". ");
             Console.Write("Jeg er " + alder); //Læg mærke til at man kan plusse ting sammen for at lave en længere sammensat string.
-            Console.Write("år gammel.");
+            Console.Write(" år gammel.");
             Console.WriteLine();
 
             //TODO Opgave2: Skriv de 5 ovenstående linjer om, således at man kun bruger Console.Write funktionen EN gang.
