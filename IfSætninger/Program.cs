@@ -81,7 +81,7 @@ namespace IF_Sætninger
             if (e < 10)
             {
                 Console.WriteLine("Error");
-            } else if (e < 0)
+            } else if (e > 0)
             {
                 Console.WriteLine("opgave 7");
             }
