@@ -27,7 +27,6 @@ namespace IF_Sætninger
 
 
             //Fordi if sætninger tager imod en boolean værdi kan vi bruge vores viden om operatorer fra sidste kapitel til at gøre dem smarte.
-
             const int a = 3;
             const int b = 7;
             const int c = 5;
