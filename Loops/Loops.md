@@ -1,4 +1,4 @@
-# Loop
+# Loops
 
 
 Loops er en nødvnedig del af et hvert programmerings sprog. Der er 3 forskellige former for loops.
