@@ -12,7 +12,7 @@ En bog hvor du kan lære at programmere med C#.
  - [Kapitel 6: Loops](./Loops/Loops.md)
  - [Kapitel 7: Simple Objekter](./Objekter/Objekter.md)
  - [Appendiks 1: Brugerinput](./Brugerinput/Brugerinput.md)
- - [Ekstra Opgaver](.ekstra-opgaver/ekstra-opgaver.md)
+ - [Ekstra Opgaver](./ekstra-opgaver/ekstra-opgaver.md)
 
 ## Kom igang
 
