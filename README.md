@@ -7,11 +7,11 @@ En bog hvor du kan lære at programmere med C#.
  - [Kapitel 1: Variabler](./Variabler/Variabler.md)
  - [Kapitel 2: Operatorer](./Operatorer/Operatorer.md)
  - [Kapitel 3: IF sætninger](./IfSætninger/IfSætninger.md)
- - [Kapitel 4: Brugerinput](./Brugerinput/Brugerinput.md)
- - [Kapitel 5: Arrays](./Arrays/Arrays.md)
- - [Kapitel 6: Funktioner](./Funktioner/Funktioner.md)
- - [Kapitel 7: Loops](./Loops/Loops.md)
- - [Kapitel 8: Simple Objekter](./Objekter/Objekter.md)
+ - [Kapitel 4: Arrays](./Arrays/Arrays.md)
+ - [Kapitel 5: Funktioner](./Funktioner/Funktioner.md)
+ - [Kapitel 6: Loops](./Loops/Loops.md)
+ - [Kapitel 7: Simple Objekter](./Objekter/Objekter.md)
+ - [Appendiks 1: Brugerinput](./Brugerinput/Brugerinput.md)
 
 ## Kom igang
 
