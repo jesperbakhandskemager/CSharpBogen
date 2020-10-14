@@ -1,4 +1,5 @@
-# Loops
+# Loop
+
 
 Loops er en nødvnedig del af et hvert programmerings sprog. Der er 3 forskellige former for loops.
 
@@ -14,7 +15,8 @@ Koden ovenfor ville skrive alle tal fra 1-10.
 
 Et while loop køre mens en given betingelse er opfyldt, og et do while loop er det samme som en while, men køre mindst 1 gang.
 
-Et eksempel på et while loop kan ses nedenfor.
+Et eksempel på et while loop kan ses nedenfor. 
+Hvor en skole har et string Array med navnene på alle eleverne i en klasse, og de skal alle sammen vises på skærmen.
 
 ```csharp=
 int i = 0;
@@ -58,3 +60,4 @@ do
 ```
 
 Ovenfor kan et eksempel ses på brugen af et do while loop, hvor brugeren skal indtaste et tal, hvis brugeren derimod indtaster noget andet vil den gå tilbage til prompten indtil han skriver noget gyldigt.
+
